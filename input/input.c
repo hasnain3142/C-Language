@@ -1,26 +1,26 @@
 #include <stdio.h>
 
 int main(void){
-	// int num;
-	// float dec;
-	// char ch;
+	int num;
+	float dec;
+	char ch;
 
-	// printf("Welcome\n");
+	printf("Welcome\n");
 
-	// printf("Enter any number: ");
-	// scanf("%d",&num);
-	// printf("%d\n",num);
+	printf("Enter any number: ");
+	scanf("%d",&num);
+	printf("%d\n",num);
 
-	// printf("Enter any character: ");
-	// scanf("%c",&ch);
+	printf("Enter any character: ");
+	scanf("%c",&ch);
 
-	// printf("Enter any floating-pint number: ");
-	// scanf("%f",&dec);
-	// printf("%f\n",dec);
+	printf("Enter any floating-pint number: ");
+	scanf("%f",&dec);
+	printf("%f\n",dec);
 	char str[50];
-	// printf("Enter a word: ");
-	// scanf("%s",str);
-	// printf("%s\n",str);
+	printf("Enter a word: ");
+	scanf("%s",str);
+	printf("%s\n",str);
 
 	// Input the Sentence 
     printf("\n\nEnter the Sentence: "); 
